@@ -1,4 +1,4 @@
 git-presentation
 ================
 
-Html5 presentation about Git I am about to give.
+Please see the gh-pages branch ( http://kmorcinek.github.io/git-presentation/ )
